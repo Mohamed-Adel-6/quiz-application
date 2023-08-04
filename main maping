@@ -1,0 +1,20 @@
+done
+01- create json object for question
+02- start creating html  markup
+03- add dummy data
+04- create the styling
+05- fetch number of question
+06- show question count + question category
+07- show the number of bullets depend on question count
+08- set the number for the right and wrong answer
+09- create countDown timer
+10- fetch the question from json object
+11- show first question
+12- check answer and hide question then show next one
+13- if the time end , mark the question as wrong and show next question
+14- add class on bullet after answer the question
+15- if questions end show result
+
+
+
+
